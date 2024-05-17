@@ -1,0 +1,1 @@
+<span class="count wishlist_count text-center" wire:poll.10000ms="unreadCountMessages" wire:init="unreadCountMessages" @if((int)$unreadCountMessages === 0)style="display: none"@endif><span>{{$unreadCountMessages}}</span></span>

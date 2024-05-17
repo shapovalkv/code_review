@@ -1,0 +1,10 @@
+@import '../../resources/css/user.css';
+@import '../../resources/css/theme.css';
+@import '../../resources/css/user-rtl.css';
+@import '../../resources/css/falcon-theme.min.css';
+@import '../../resources/css/toastr.css';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
